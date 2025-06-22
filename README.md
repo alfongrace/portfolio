@@ -13,4 +13,4 @@ tech used:
 
 to access:
 
-clone repo and run `yarn start`
+click here https://alfongrace.github.io/ to view website or clone repo and run `yarn start`
