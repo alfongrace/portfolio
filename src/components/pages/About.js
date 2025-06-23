@@ -51,7 +51,7 @@ function About() {
             padding: "0",
           }}
         >
-          Hi there 👋
+          Hi there! 👋
         </p>
                 <p
           style={{
@@ -62,8 +62,8 @@ function About() {
             padding: "0",
           }}
         >
-          I'm Grace Alfon, a junior software developer. My
-          journey into software development began in September 2024 at BVC where
+          I'm Grace Alfon, a junior software developer. 
+          My journey into software development began in September 2024 at BVC where
           I took Software Development Apprenticeship-Style program. I started
           working at Okos in January 2025, as a Software Developer Intern.
         </p>
@@ -76,8 +76,8 @@ function About() {
             padding: "0",
           }}
         >
-          I have worked with HTML, CSS, JavaScript, React, Node.js, and C#, as
-          well as various tools and frameworks like Git, GitHub, React-Admin and
+          I have worked with HTML, CSS, JavaScript, React, Node.js, and C# as
+          well as various tools and frameworks like Git, GitHub, React-Admin, ASP.NET, and
           React-Native.
         </p>
         <p
@@ -90,10 +90,10 @@ function About() {
           }}
         >
           Outside of programming, school and work, I enjoy hiking, swimming,
-          reading, writing, playing the guitar, and baking. I also spend time
+          reading, writing, playing the guitar, and baking. I also spend my free time
           volunteering to share about the Bible with others as one of Jehovah's
           Witnesses. I believe in a balanced life and bring the same dedication
-          and creativity from my hobbies into my professional work.
+          and creativity from my hobbies into my professional work!
         </p>
         <p
           style={{
@@ -105,7 +105,7 @@ function About() {
           }}
         >
           Feel free to connect with me on LinkedIn or explore my projects on
-          GitHub!
+          GitHub! :)
         </p>
       </div>
       <div
